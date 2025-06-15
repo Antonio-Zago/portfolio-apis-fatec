@@ -1,11 +1,5 @@
 ## Projeto IV - BoatHelp
 
-<details>
-  
-<summary>
-	Mais Detalhes do Projeto IV
-</summary>
-
 # BoatHelp - Sistema de abertura de chamados de suporte com níveis diferentes de acesso
 
 ### Parceiro Acadêmico
@@ -256,14 +250,3 @@ No geral, esse código cria uma interface de cadastro de chamados interativa, qu
 #### Aquisição de Habilidades Valiosas:
     Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
 
-<br>
-
-<details close></summary></summary>
-
-Clique [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do projeto.
-
-</details>
-
-<br>
-
-</details>
