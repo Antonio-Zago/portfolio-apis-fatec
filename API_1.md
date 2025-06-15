@@ -50,7 +50,7 @@ Link do repositório do projeto: [Repositório](https://github.com/AndrewAugusto
   Participei ativamente do processo de criação da tela inicial da aplicação, contribuindo para o desenvolvimento de uma interface intuitiva e funcional.
   Durante o processo, trabalhei na definição da organização dos elementos da tela, como botões, menus e informações chave, buscando sempre otimizar o fluxo de navegação e facilitar o acesso às funcionalidades principais. Também estive envolvido na escolha das cores, fontes e outros detalhes visuais, de forma a garantir uma identidade visual coesa e que estivesse alinhada com o propósito da aplicação.
   
-<details open><summary>Informações sobre o desenvolvimento da tela de login</summary>
+<details><summary>Informações sobre o desenvolvimento da tela de login</summary>
  
    1. Código da tela de login
      
@@ -90,7 +90,7 @@ if __name__ == "__main__":
 
 </details> 
 
- <details open><summary>Informações sobre o desenvolvimento do código para exibir agenda de jogos</summary>
+ <details><summary>Informações sobre o desenvolvimento do código para exibir agenda de jogos</summary>
   
    1. Trecho do código responsável por chamar o método para exibir a agenda e permitir ao usuário excluir ou inserir novas informações
      
@@ -204,60 +204,59 @@ if __name__ == "__main__":
 
 ## Aprendizados Efetivos
 
-<h4><strong>Início com Python:</strong></h4>
-<pre>
-   Iniciei minha jornada com a linguagem de programação Python, abrindo portas para novas possibilidades.
-</pre>
-
-<h4><strong>Compreensão Profunda do Scrum:</strong></h4>
-<pre>
-   Adquiri uma compreensão profunda da metodologia ágil Scrum, aplicando seus princípios de forma prática.
-</pre>
-
-<h4><strong>Adoção do Paradigma Imperativo:</strong></h4>
-<pre>
-   Optei por adotar o paradigma de programação imperativo para construir meu projeto, utilizando uma abordagem estruturada.
-</pre>
-
-<h4><strong>Base Sólida em Lógica de Programação:</strong></h4>
-<pre>
-   Desenvolvi uma base sólida em lógica de programação, capacitando-me para resolver desafios computacionais de maneira eficaz.
-</pre>
-
-<h4><strong>Introdução e Uso de Estruturas de Dados:</strong></h4>
-<pre>
-   Introduzi e utilizei com sucesso as primeiras estruturas de dados em meu projeto, explorando as capacidades da linguagem Python.
-</pre>
-
-<h4><strong>Evolução das Habilidades de Comunicação:</strong></h4>
-<pre>
-   Minhas habilidades de comunicação estão em constante evolução, contribuindo para uma melhor interação com colegas.
-</pre>
-
-<h4><strong>Desenvolvimento Backend com Python:</strong></h4>
-<pre>
-   Desenvolvimento do backend com Python, criando aplicações robustas.
-</pre>
-
-<h4><strong>Criação de APIs:</strong></h4>
-<pre>
-   Criação de APIs para fornecer serviços e funcionalidades.
-</pre>
-
-<h4><strong>Versionamento de Código com Git:</strong></h4>
-<pre>
-   Domínio do versionamento de código com o uso do Git.
-</pre>
-
-<h4><strong>Projetar Arquitetura de Sistemas:</strong></h4>
-<pre>
-   Capacidade de projetar a arquitetura de sistemas alinhada aos requisitos funcionais e não funcionais.
-</pre>
-
-<h4><strong>Desenvolvimento Integrado com Bancos de Dados Relacionais:</strong></h4>
-<pre>
-   Experiência no desenvolvimento integrado com bancos de dados relacionais.
-</pre>
+ <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Scrum</td>
+      <td>★☆☆☆☆</td>
+	<td>Já ouvi falar</td>
+    </tr>	
+    <tr>
+      <td>Lógica de Programação</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Git</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>
+   <tr>
+      <td>Bancos de Dados Relacionais</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Habilidade</th>
+      <th width="280px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>Minhas habilidades de comunicação estão em constante evolução, contribuindo para uma melhor interação com colegas.</td>
+    </tr>
+    <tr>
+  <td>Pensamento Crítico</td>
+  <td>Ao trabalhar com modelos de inteligência artificial, desenvolvi a capacidade de avaliar dados, interpretar resultados e questionar soluções prontas, garantindo decisões mais fundamentadas e eficientes.</td>
+</tr>
+<tr>
+  <td>Autonomia e Proatividade</td>
+  <td>Assumi a responsabilidade de explorar novas tecnologias, estudar documentações e propor melhorias ao projeto, demonstrando iniciativa e comprometimento com a evolução constante da solução desenvolvida.</td>
+</tr>
+  </table>
 
 
  <h2 align="center"> Meus Projetos :books:</h2>
