@@ -447,12 +447,12 @@ Além disso, foi implementado o serviço do REDIS, para armazenamento em cache d
     </tr>
     <tr>
       <td>Scikit-Learn</td>
-      <td★★★★☆</td>
+      <td>★★★★☆</td>
 	<td>Entendi</td>
     </tr>
    <tr>
       <td>MongoDb</td>
-      <td>>★★★★☆</td>
+      <td>★★★★☆</td>
 	<td>Entendi</td>
     </tr>
    <tr>
