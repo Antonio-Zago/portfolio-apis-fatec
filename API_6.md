@@ -423,19 +423,72 @@ Além disso, foi implementado o serviço do REDIS, para armazenamento em cache d
 
 ## Conhecimentos Adquiridos
 
-### Integração entre Front-end e Back-end:
-	Desenvolvi a habilidade de integrar eficientemente tecnologias distintas, como Flask e React, fortalecendo minha capacidade de comunicação entre diferentes camadas da aplicação e promovendo uma visão mais sistêmica do desenvolvimento web.
-
-### Pensamento Analítico e Tomada de Decisão:
-	Ao lidar com previsões baseadas em inteligência artificial, aprimorei minha capacidade analítica, aprendendo a interpretar os dados gerados e tomar decisões mais assertivas com base em insights automatizados.
-
-### Resolução de Desafios Técnicos:
-	Durante a implementação do mapa interativo e da plotagem de formas geométricas, enfrentei desafios técnicos complexos que exigiram criatividade, paciência e persistência para encontrar soluções eficazes.
-
-### Adaptação Contínua:
-	A necessidade de trabalhar com diferentes bibliotecas, linguagens e frameworks reforçou minha adaptabilidade frente a novas ferramentas e contextos, habilidade essencial em ambientes tecnológicos dinâmicos.
-
-### Colaboração e Comunicação Técnica:
-	Trabalhar em equipe nesse projeto me ajudou a melhorar minha comunicação técnica, tanto na hora de compartilhar decisões quanto de documentar o raciocínio por trás de certas escolhas, facilitando a colaboração com colegas de diferentes áreas.
+ <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Flask</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Postgress</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>	
+    <tr>
+      <td>React</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>
+    <tr>
+      <td>Scikit-Learn</td>
+      <td★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+   <tr>
+      <td>MongoDb</td>
+      <td>>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+   <tr>
+      <td>Postgress</td>
+      <td>★★★★★</td>
+	<td>Consigo ajudar outros devs</td>
+    </tr>
+    <tr>
+      <td>REDIS</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Habilidade</th>
+      <th width="280px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Pensamento Analítico</td>
+      <td>Ao lidar com previsões baseadas em inteligência artificial, aprimorei minha capacidade analítica</td>
+    </tr>
+    <tr>
+      <td>Resolução de Desafios Técnicos</td>
+      <td>Durante a implementação do mapa interativo e da plotagem de formas geométricas, enfrentei desafios técnicos complexos que exigiram criatividade, paciência e persistência para encontrar soluções eficazes.</td>
+    </tr>
+    <tr>
+      <td>Colaboração e Comunicação Técnica</td>
+      <td>Trabalhar em equipe nesse projeto me ajudou a melhorar minha comunicação técnica, tanto na hora de compartilhar decisões quanto de documentar o raciocínio por trás de certas escolhas, facilitando a colaboração com colegas de diferentes áreas</td>
+    </tr>
+    <tr>
+      <td>Adaptação Contínua</td>
+      <td>A necessidade de trabalhar com diferentes bibliotecas, linguagens e frameworks reforçou minha adaptabilidade frente a novas ferramentas e contextos, habilidade essencial em ambientes tecnológicos dinâmicos.</td>
+    </tr>
+  </table>
 
 
