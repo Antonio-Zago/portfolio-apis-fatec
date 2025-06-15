@@ -1,10 +1,7 @@
-## Projeto III - Eco
+## Projeto III - PromoAll
 
-# Vigilant - (Sistema de Gerenciamento de Banco de Dados)
+# PromoAll - Motor de promoções em um Ecommerce
 
-# Projeto 3: 1º semestre de 2022
- 
- 
  ## Parceiro Acadêmico
 MidAll</br>
 
@@ -27,7 +24,7 @@ Criação de um motor de promoções em um Ecommerce, onde a criação, edição
 
 Dessa forma, foi desenvolvido o PromoAll
 
-<img src ="https://github.com/Doc-Docker/APIMidAll/blob/main/Images/logo2promoall.png" width="300" height="300"/>
+<img src ="https://github.com/Doc-Docker/APIMidAll/blob/main/Images/logo2promoall.png" width="200" height="200"/>
 
 ##### *Figura 02. Fonte(www.github.com/Doc-Docker/APIMidAll)*
 
@@ -274,22 +271,56 @@ Desenvolvimento no front-end, utilizando o Angular, dentro desse desenvolvimento
 </br>
 Além disso, tive o desafio de criar as requisições http de acordo com que foi desenvolvido no back end, consiliando o objeto json que seria enviado através das requisições POST e PUT, e adaptando no layout os objetos recebidos através da requisição GET, além disso, enviar as informações corretas para a requisição DELETE.
 
-### Aprendizados efetivos HS:
+## Conhecimentos Adquiridos
 
-  Dentro do desenvolvimento do sistema de E-commerce para a MidAll obtive diversos aprendizados novos, e aprofundei em outros, foram eles:
+
+ <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>	
+    <tr>
+      <td>Sql Server</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+  </table>
   
-* Desenvolvimento de telas com Angular; </br>
-   Para criação das telas foi utilizado o html e css, além do bootstrap como framework para o frontend. 
-* Desenvolvimento com a linguagem TypeScript; </br>
-   Foi necessário aprender sobre a linguagem TypeScript para criação dos arquivos service para efetivar as requisições HTTP
-* Protocolo HTTP;
-* Requisições GET, POST, PUT e DELETE; </br>
-   Aprendi mais sobre essas requisições e como efetuar elas utilizando o Angular.
-* Criação de um objeto JSON para envio nas requisições;
-* Aprendi como fazer requisições no backend utilizando a api httpClient do Angular;
-* Aprofundamento em aprendizados de banco de dados, DML, DQL, criação arquitetura de tabelas ;   
-* Criação de um projeto em Vue; </br>
-   Foi necessário aprender a estrutura de pastas de um projeto em Angular.</br>
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+  <td>Resolução de Problemas</td>
+  <td>Durante a construção do carrinho de compras e aplicação das promoções, enfrentei diversos obstáculos técnicos, como regras de negócio complexas e requisições HTTP específicas. Isso exigiu criatividade e persistência na busca por soluções eficazes.</td>
+</tr>
+<tr>
+  <td>Trabalho em Equipe</td>
+  <td>Apesar do desenvolvimento individual de algumas partes, foi necessário alinhar com colegas e professores sobre regras de negócio e funcionamento da aplicação, garantindo que todas as funcionalidades se integrassem de forma coesa.</td>
+</tr>
+<tr>
+  <td>Aprendizado Contínuo</td>
+  <td>Enfrentei desafios com tecnologias novas, como Angular e Spring, e precisei buscar constantemente materiais, tutoriais e documentação para evoluir rapidamente e entregar com qualidade.</td>
+</tr>
+<tr>
+  <td>Comunicação Técnica</td>
+  <td>Durante o desenvolvimento, documentei funcionalidades, escrevi descrições para o README e alinhei com a equipe técnica sobre os fluxos de dados. Isso ajudou na compreensão e colaboração com outros envolvidos.</td>
+</tr>
+<tr>
+  <td>Autonomia</td>
+  <td>Assumi tarefas importantes do front-end por conta própria, tomando decisões de design e implementação, o que fortaleceu minha autoconfiança e capacidade de execução independente.</td>
+</tr>
+  </table>
    
 
   Os conhecimentos adquiridos em aula foram essencias para desenvolvimento desse projeto, aplicamos os conhecimentos aprendidos para seguir os padrões de arquitetura, torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Criação do banco de dados utilizado na aplicação, seguindo o padrão de chaves primaria e estrangeiras nas tabelas, criação do modelo e entidades do banco. Criação do padrão de pastas tanto no frontend como no backend. Aprendizados dos frameworks utilizados, vue e spring.
