@@ -1,4 +1,4 @@
-## Projeto V
+## Projeto V - DataViz 
 
 # DataViz - Sistema de análise de dados de recrutamento e seleção. Tem como objetivo oferecer insights valiosos
 
@@ -6,9 +6,9 @@
 	
 <br/>
 
-![image]([https://pro4tech.com.br/assets/img/logo-p4t-navbar-branco.png](https://pro4tech.com.br/assets/img/logo-p4t-navbar-branco.png))
+<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_4917177/logotipo-pro4tech_Prancheta%201.png" width="200"/>
 
-##### *Figura 01. Logo Pro4Tech Fonte([Subiter](https://pro4tech.com.br/))*
+##### *Figura 01. Logo Pro4Tech Fonte([Pro4Tech](https://pro4tech.com.br/))*
 
 ### Visão do Projeto
 
@@ -44,7 +44,7 @@ Personalização de relatórios conforme as necessidades específicas dos gestor
 ## Iniciativas Implementadas
 
 
-<details open><summary>Informações sobre a modelagem estrela realizada no projeto</summary>
+<details ><summary>Informações sobre a modelagem estrela realizada no projeto</summary>
      
   ![image](https://github.com/user-attachments/assets/86838ff8-31cb-44c8-a80c-72fb44585aaa)
    
@@ -59,7 +59,7 @@ Personalização de relatórios conforme as necessidades específicas dos gestor
 </details>  
 
     
-<details open><summary>Informações sobre a implementação de importação dos dados do cliente para o banco de dados</summary>
+<details ><summary>Informações sobre a implementação de importação dos dados do cliente para o banco de dados</summary>
      
    ```java
 		public void Salvar(String arquivo){
@@ -130,7 +130,7 @@ Personalização de relatórios conforme as necessidades específicas dos gestor
 
 </details>   
 
- <details open><summary>Detalhes das rotinas para retorno das métricas</summary>
+ <details ><summary>Detalhes das rotinas para retorno das métricas</summary>
        
    ```java
 
@@ -166,7 +166,7 @@ O método "TempoMedioContratacoesPorVaga" retorna o tempo médio de contrataçõ
 
 </details> 
 
- <details open><summary>Detalhes do componente para renderizar o gráfico de tempo médio de contratações</summary>
+ <details ><summary>Detalhes do componente para renderizar o gráfico de tempo médio de contratações</summary>
        
    ```Vue
 
@@ -254,7 +254,7 @@ Nesse trecho do componente de gráfico do tempo médio de contratação por proc
 
 </details> 
 
- <details open><summary>Detalhes do componente para renderizar a lista de quantidade de contratações por processo seletivo</summary>
+ <details ><summary>Detalhes do componente para renderizar a lista de quantidade de contratações por processo seletivo</summary>
        
    ```Vue
 <template>
@@ -407,24 +407,72 @@ Nesse trecho do componente que lista a quatidade de contratações por processo 
 
 ## Conhecimentos Adquiridos
 
-#### Aprendizado do VueJs:
-    Adquiri habilidades no uso do VueJs, explorando suas funcionalidades e sintaxe, além de aprender a renderizar gráficos e dashboards.
-#### Consulta à Documentação Oficial:
-    Compreendi a importância de consultar a documentação oficial do VueJs para obter informações detalhadas e precisas sobre a tecnologia.
-#### Estudo Aprofundado:
-    Reconheci a necessidade de dedicar tempo a um estudo aprofundado para construir uma base sólida e confiável de conhecimento em VueJs.
-#### Noções Básicas vs. Complexidades:
-    Percebi que, embora os tutoriais sejam úteis para noções básicas, o estudo da documentação permitiu a compreensão das complexidades da tecnologia.
-#### Exploração de Recursos Avançados:
-    Aprofundei meu conhecimento explorando recursos avançados do VueJs, além do que é geralmente abordado em tutoriais introdutórios.
-#### Constante Busca por Novos Aprendizados:
-    Reforcei a importância de estar constantemente em busca de novos aprendizados para acompanhar as evoluções tecnológicas.
-#### Atualização sobre Tendências do Mercado:
-    Compreendi a necessidade de manter-me atualizado sobre as últimas tecnologias e tendências do mercado para permanecer relevante no cenário profissional.
-#### Desenvolvimento de Projeto Sofisticado:
-    Utilizando o conhecimento adquirido, desenvolvi um projeto mais sofisticado e eficaz, incorporando práticas avançadas do VueJs.
-#### Aquisição de Habilidades Valiosas:
-    Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
+ <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★</td>
+	<td>Consigo ensinar outros devs</td>
+    </tr>
+    <tr>
+      <td>Spark</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>	
+    <tr>
+      <td>Vue</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Mysql</td>
+      <td>★★★★★</td>
+	<td>Consigo ensinar outros devs</td>
+    </tr>
+     <tr>
+      <td>Conceitos de DevOps</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+     <tr>
+      <td>Sql e Spark para ETL</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Habilidade</th>
+      <th width="280px">Descrição</th>
+    </tr>
+    <tr>
+      <td>Resolução de problemas</td>
+      <td>Durante o desenvolvimento, principalmente do ETL com a utilização do Spark foram surgindo algumas dificuldades que tive que superar</td>
+    </tr>
+    <tr>
+  <td>Colaboração em equipe</td>
+  <td>Apoiei os demais integrantes da equipe em diversas situações</td>
+</tr>
+<tr>
+  <td>Autonomia e Proatividade</td>
+  <td>Assumi a responsabilidade de explorar novas tecnologias, estudar documentações e propor melhorias ao projeto, demonstrando iniciativa e comprometimento com a evolução constante da solução desenvolvida.</td>
+</tr>
+<tr>
+  <td>Organização e gestão do tempo</td>
+  <td>Entrega de diversas etapas do projeto (modelagem, backend, frontend, visualizações) em prazos que exigem planejamento e priorização de tarefas.</td>
+</tr>
+<tr>
+  <td>Aprendizado continuo</td>
+  <td>Aprendi e apliquei tecnologias novas como Apache Spark e Vue.js, que exigem curva de aprendizado específica.</td>
+</tr>
+  </table>
 
 
  <h2 align="center"> Meus Projetos :books:</h2>
