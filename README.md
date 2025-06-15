@@ -7,7 +7,7 @@ Meu nome é Antonio Roberto, tenho 25 anos e estou cursando o 6º semestre de Ba
 
 Durante a realização do curso na Fatec, adquiri diversos conhecimentos sobre tecnologias, metodologias, ferramentas e boas práticas de desenvolvimento. Com a Aprendizagem por Projetos Integrados (API), tive a oportunidade de colocar em prática os conteúdos estudados em sala de aula e elaborar soluções para problemas reais do mercado de trabalho, tendo como clientes empresas reais parceiras da faculdade.
 
-Atualmente sou Desenvolvedor pleno na Benner, utilizando linguagens de programação como .NET, Delphi, Python, Flutter e realizando operações em banco de dados Oracle e Sql Server desenvolvendo novas soluções e realizadno manutenções no produto.
+Atualmente sou Desenvolvedor pleno na Benner, utilizando linguagens de programação como .NET, Delphi, Python, Flutter e realizando operações em banco de dados Oracle e Sql Server desenvolvendo novas soluções e realizando manutenções no produto.
 
 <body>
         <div align="center">
