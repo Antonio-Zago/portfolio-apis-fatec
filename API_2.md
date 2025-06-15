@@ -54,7 +54,7 @@ Essa tarefa exigiu um conhecimento aprofundado das estruturas de banco de dados 
 
 Minha contribuição na criação de consultas e procedures reforçou minha capacidade de traduzir requisitos de negócios em soluções práticas no ambiente de banco de dados. Além disso, evidenciou meu domínio de SQL e meu compromisso em desenvolver soluções robustas e eficazes, atendendo às necessidades tanto do projeto quanto da equipe.
 
-<details open><summary>Informações código Back-End</summary>
+<details ><summary>Informações código Back-End</summary>
     
    1. Algoritmo para conexão com o Banco de Dados (Postgress).
      
@@ -114,7 +114,7 @@ Em seguida, dentro de um bloco try-catch, o código tenta estabelecer a conexão
 
 Após a conexão ser estabelecida, há uma chamadas de método chamando "ExibirTamanhoTabelas". Esse método exibe o tamanho das tabelas do banco de dados através de um retorno de uma query consultando através da conexão realizada.
 
-</details>   
+ 
 
 - Auxiliei também a integração completa das chamadas de todos os métodos do Back-End. Durante esse processo, além de criar alguns métodos, desempenhei um papel fundamental na realização de testes para validar as requisições.
 
@@ -122,7 +122,9 @@ Após a conexão ser estabelecida, há uma chamadas de método chamando "ExibirT
 
   A abordagem sistemática e a atenção aos detalhes nos testes ilustram o compromisso em oferecer um produto final de alta qualidade, além de evidenciar minhas habilidades em depuração e solução de problemas.
 
-  <details open><summary>Detalhes da Interface do Usuário</summary>
+</details>  
+
+<details ><summary>Detalhes da Interface do Usuário</summary>
   
    1. Trecho do algoritmo responsável por receber o retorno do back-end.
      
@@ -159,38 +161,51 @@ A próxima linha cria uma instância da classe "Properties" chamada "prop" e cha
 Em seguida, a propriedade chamada "openMenu" é recuperada do objeto "Properties" e armazenada na variável "openMenu" como uma string.
 Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y". Se for, o método "startmenu()" é chamado no objeto "menu". Caso contrário, uma instância da classe "ImprimeMetricas" chamada "imprimeMetricas" é criada, passando o objeto "loginModel" como argumento para o construtor. Em seguida, vários métodos são chamados nessa instância, como "tamanhobancos()", "tamanhoTabelas()", "selectsChamadas1000x()", "SelectMaisDemoradas()", "selectsMaisDemoradasMedia()" e "conflicts()". Esses métodos provavelmente realizam diferentes operações relacionadas a métricas e análises de um sistema.
 
+
+</details>   
+
 ## Conhecimentos Adquiridos
 
-### Aquisição de Conhecimento Profundo
-Durante o desenvolvimento do projeto, aproveitei a oportunidade para adquirir um conhecimento aprofundado sobre sistemas de gerenciamento de banco de dados (SGBDs).
 
-### Manipulação Eficiente de Informações
-Desenvolvi habilidades para coletar e manipular informações de forma altamente eficiente, criando séries históricas e gerando métricas relevantes para os usuários.
-
-### Aprimoramento de Consultas SQL
-A experiência me permitiu aprimorar minha capacidade de criar consultas SQL, utilizando diversos comandos para extrair informações específicas e impactantes de forma eficaz.
-
-### Exploração de Ferramentas de Gerenciamento
-Tive a oportunidade de explorar e me familiarizar profundamente com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, aplicando-as de forma excepcionalmente eficaz.
-
-### Coleta de Métricas Cruciais
-Criei consultas e rotinas que possibilitaram a coleta de métricas essenciais, como o dimensionamento de tabelas e bancos de dados, proporcionando insights valiosos aos usuários.
-
-### Aprofundamento nos Princípios Fundamentais
-Aprofundei minha compreensão dos princípios fundamentais que regem os SGBDs, destacando a importância de estruturar e organizar dados de maneira adequada para facilitar operações futuras.
-
-### Relevância da Otimização
-Reconheci a importância de otimizar consultas e operações de banco de dados para garantir um desempenho mais eficiente, resultando em uma experiência geral mais satisfatória para os usuários.
-
-### Atuação Além da Manipulação de Dados
-Minha atuação no projeto não se limitou à coleta e manipulação de dados, mas também envolveu a criação de um ambiente de banco de dados resiliente e otimizado.
-
-### Papel Essencial no Sucesso da Aplicação
-Esse trabalho teve um papel fundamental no sucesso da aplicação, contribuindo para a eficácia operacional e o bom desempenho da ferramenta.
-
-### Conhecimento Profundo e Base Sólida
-A experiência adquirida proporcionou um conhecimento profundo e uma base sólida, preparando-me para futuros projetos relacionados à gestão de dados e ao uso de SGBDs.
-<br>
+ <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>	
+    <tr>
+      <td>Postgrees</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>
+  </table>
+  
+  <h3 align="center">Soft Skills</h3>
+  <table align="center">
+    <tr>
+  <td>Organização e Gestão de Tempo</td>
+  <td>Gerenciar tarefas como a criação de consultas SQL, implementação de procedures e testes de integração exigiu planejamento e disciplina para cumprir prazos e manter a qualidade do projeto.</td>
+</tr>
+<tr>
+  <td>Capacidade Analítica</td>
+  <td>Durante a construção da lógica para coleta de dados e análise das métricas, exercitei minha capacidade analítica para interpretar informações complexas e transformá-las em soluções eficientes e automatizadas.</td>
+</tr>
+<tr>
+  <td>Responsabilidade Técnica</td>
+  <td>Ao assumir partes críticas do sistema, como a integração com o banco de dados e validação das chamadas de API, desenvolvi um senso de responsabilidade sobre a estabilidade, confiabilidade e qualidade do produto entregue.</td>
+</tr>
+  </table>
 
 
  <h2 align="center"> Meus Projetos :books:</h2>
