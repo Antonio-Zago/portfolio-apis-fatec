@@ -423,23 +423,19 @@ Além disso, foi implementado o serviço do REDIS, para armazenamento em cache d
 
 ## Conhecimentos Adquiridos
 
-#### Aprendizado do VueJs:
-    Adquiri habilidades no uso do VueJs, explorando suas funcionalidades e sintaxe, além de aprender a renderizar gráficos e dashboards.
-#### Consulta à Documentação Oficial:
-    Compreendi a importância de consultar a documentação oficial do VueJs para obter informações detalhadas e precisas sobre a tecnologia.
-#### Estudo Aprofundado:
-    Reconheci a necessidade de dedicar tempo a um estudo aprofundado para construir uma base sólida e confiável de conhecimento em VueJs.
-#### Noções Básicas vs. Complexidades:
-    Percebi que, embora os tutoriais sejam úteis para noções básicas, o estudo da documentação permitiu a compreensão das complexidades da tecnologia.
-#### Exploração de Recursos Avançados:
-    Aprofundei meu conhecimento explorando recursos avançados do VueJs, além do que é geralmente abordado em tutoriais introdutórios.
-#### Constante Busca por Novos Aprendizados:
-    Reforcei a importância de estar constantemente em busca de novos aprendizados para acompanhar as evoluções tecnológicas.
-#### Atualização sobre Tendências do Mercado:
-    Compreendi a necessidade de manter-me atualizado sobre as últimas tecnologias e tendências do mercado para permanecer relevante no cenário profissional.
-#### Desenvolvimento de Projeto Sofisticado:
-    Utilizando o conhecimento adquirido, desenvolvi um projeto mais sofisticado e eficaz, incorporando práticas avançadas do VueJs.
-#### Aquisição de Habilidades Valiosas:
-    Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
+### Integração entre Front-end e Back-end:
+	Desenvolvi a habilidade de integrar eficientemente tecnologias distintas, como Flask e React, fortalecendo minha capacidade de comunicação entre diferentes camadas da aplicação e promovendo uma visão mais sistêmica do desenvolvimento web.
+
+### Pensamento Analítico e Tomada de Decisão:
+	Ao lidar com previsões baseadas em inteligência artificial, aprimorei minha capacidade analítica, aprendendo a interpretar os dados gerados e tomar decisões mais assertivas com base em insights automatizados.
+
+### Resolução de Desafios Técnicos:
+	Durante a implementação do mapa interativo e da plotagem de formas geométricas, enfrentei desafios técnicos complexos que exigiram criatividade, paciência e persistência para encontrar soluções eficazes.
+
+### Adaptação Contínua:
+	A necessidade de trabalhar com diferentes bibliotecas, linguagens e frameworks reforçou minha adaptabilidade frente a novas ferramentas e contextos, habilidade essencial em ambientes tecnológicos dinâmicos.
+
+### Colaboração e Comunicação Técnica:
+	Trabalhar em equipe nesse projeto me ajudou a melhorar minha comunicação técnica, tanto na hora de compartilhar decisões quanto de documentar o raciocínio por trás de certas escolhas, facilitando a colaboração com colegas de diferentes áreas.
 
 
