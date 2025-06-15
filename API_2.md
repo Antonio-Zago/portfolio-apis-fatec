@@ -1,11 +1,5 @@
 ## Projeto II - Vigilant
 
-<details>
-  
-<summary>
-	Mais Detalhes do Projeto II
-</summary>
-
 # Vigilant - (Sistema de Gerenciamento de Banco de Dados)
 
 ### Parceiro Acadêmico
@@ -198,12 +192,7 @@ Esse trabalho teve um papel fundamental no sucesso da aplicação, contribuindo 
 A experiência adquirida proporcionou um conhecimento profundo e uma base sólida, preparando-me para futuros projetos relacionados à gestão de dados e ao uso de SGBDs.
 <br>
 
-<details close></summary></summary>
-
-Clique [aqui](https://github.com/apibanco/Vigilant) para mais detalhes do prijeto.
   
-</details>
 
-<br>
 
-</details>
+

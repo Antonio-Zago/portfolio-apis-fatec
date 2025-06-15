@@ -1,11 +1,5 @@
 ## Projeto V
 
-<details>
-  
-<summary>
-	Mais Detalhes do Projeto V
-</summary>
-
 # DataViz - Sistema de análise de dados de recrutamento e seleção. Tem como objetivo oferecer insights valiosos
 
 ### Parceiro Acadêmico
@@ -432,14 +426,3 @@ Nesse trecho do componente que lista a quatidade de contratações por processo 
 #### Aquisição de Habilidades Valiosas:
     Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
 
-<br>
-
-<details close></summary></summary>
-
-Clique [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do projeto.
-
-</details>
-
-<br>
-
-</details>

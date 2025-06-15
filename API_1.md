@@ -1,10 +1,5 @@
 ## Projeto I - Assistente Ibet
 
-<details>
-  
-<summary>
-         Mais Detalhes do Projeto I
-</summary>
 
 # Ibet - Assistente Virtual
 
@@ -270,7 +265,7 @@ if __name__ == "__main__":
 
 Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do Projeto.
 
-</details>
+
 
 <br>
 
