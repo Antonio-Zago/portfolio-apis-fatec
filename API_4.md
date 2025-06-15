@@ -41,10 +41,8 @@ O foco principal do projeto está no gerenciamento de chamados, que é crucial p
 </div>
 
 ## Iniciativas Implementadas
-
- - Tive uma participação ativa na criação do Front end da aplicação com a criação de diversas telas e a integração das mesmas com o back end
     
-<details open><summary>Informações sobre a implementação do front end dos chamados dos clientes</summary>
+<details ><summary>Informações sobre a implementação do front end dos chamados dos clientes</summary>
      
    ```html
    
@@ -141,7 +139,7 @@ O foco principal do projeto está no gerenciamento de chamados, que é crucial p
 </details>   
 
 
- <details open><summary>Detalhes da tela de cadastro de novos chamados</summary>
+ <details ><summary>Detalhes da tela de cadastro de novos chamados</summary>
        
    ```html
    
@@ -231,25 +229,55 @@ No geral, esse código cria uma interface de cadastro de chamados interativa, qu
 
 ## Conhecimentos Adquiridos
 
-#### Aprendizado do VueJs:
-    Adquiri habilidades no uso do VueJs, explorando suas funcionalidades e sintaxe.
-#### Consulta à Documentação Oficial:
-    Compreendi a importância de consultar a documentação oficial do VueJs para obter informações detalhadas e precisas sobre a tecnologia.
-#### Estudo Aprofundado:
-    Reconheci a necessidade de dedicar tempo a um estudo aprofundado para construir uma base sólida e confiável de conhecimento em VueJs.
-#### Noções Básicas vs. Complexidades:
-    Percebi que, embora os tutoriais sejam úteis para noções básicas, o estudo da documentação permitiu a compreensão das complexidades da tecnologia.
-#### Exploração de Recursos Avançados:
-    Aprofundei meu conhecimento explorando recursos avançados do VueJs, além do que é geralmente abordado em tutoriais introdutórios.
-#### Constante Busca por Novos Aprendizados:
-    Reforcei a importância de estar constantemente em busca de novos aprendizados para acompanhar as evoluções tecnológicas.
-#### Atualização sobre Tendências do Mercado:
-    Compreendi a necessidade de manter-me atualizado sobre as últimas tecnologias e tendências do mercado para permanecer relevante no cenário profissional.
-#### Desenvolvimento de Projeto Sofisticado:
-    Utilizando o conhecimento adquirido, desenvolvi um projeto mais sofisticado e eficaz, incorporando práticas avançadas do VueJs.
-#### Aquisição de Habilidades Valiosas:
-    Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
 
+ <h3 align="center"> Hard Skills </h3>
+  <table align="center">
+    <tr>
+      <th width="270px">Tecnologia/Metodologia</th>
+      <th width="85px">Nota</th>
+      <th width="200px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
+    </tr>	
+    <tr>
+      <td>Sqlite</td>
+      <td>★★★☆☆</td>
+	<td>Sei fazer com ajuda</td>
+    </tr>
+  </table>
+  
+<h3 align="center">Soft Skills</h3>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td><strong>Resolução de Problemas</strong></td>
+    <td>Durante a construção do carrinho de compras e aplicação das promoções, enfrentei diversos obstáculos técnicos, como regras de negócio complexas e requisições HTTP específicas. Isso exigiu criatividade e persistência na busca por soluções eficazes.</td>
+  </tr>
+  <tr>
+    <td><strong>Trabalho em Equipe</strong></td>
+    <td>Apesar do desenvolvimento individual de algumas partes, foi necessário alinhar com colegas e professores sobre regras de negócio e funcionamento da aplicação, garantindo que todas as funcionalidades se integrassem de forma coesa.</td>
+  </tr>
+  <tr>
+    <td><strong>Aprendizado Contínuo</strong></td>
+    <td>Enfrentei desafios com tecnologias novas, como Angular e Spring, e precisei buscar constantemente materiais, tutoriais e documentação para evoluir rapidamente e entregar com qualidade.</td>
+  </tr>
+  <tr>
+    <td><strong>Comunicação Técnica</strong></td>
+    <td>Durante o desenvolvimento, documentei funcionalidades, escrevi descrições para o README e alinhei com a equipe técnica sobre os fluxos de dados. Isso ajudou na compreensão e colaboração com outros envolvidos.</td>
+  </tr>
+  <tr>
+    <td><strong>Autonomia</strong></td>
+    <td>Assumi tarefas importantes do front-end por conta própria, tomando decisões de design e implementação, o que fortaleceu minha autoconfiança e capacidade de execução independente.</td>
+  </tr>
+</table>
 
  <h2 align="center"> Meus Projetos :books:</h2>
  
