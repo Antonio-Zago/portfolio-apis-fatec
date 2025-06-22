@@ -416,8 +416,8 @@ Nesse trecho do componente que lista a quatidade de contratações por processo 
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★</td>
-	<td>Consigo ensinar outros devs</td>
+      <td>★★★★☆</td>
+	<td>Entendi</td>
     </tr>
     <tr>
       <td>Vue</td>
@@ -427,7 +427,7 @@ Nesse trecho do componente que lista a quatidade de contratações por processo 
     <tr>
       <td>Mysql</td>
       <td>★★★★★</td>
-	<td>Consigo ensinar outros devs</td>
+	<td>Entendi completamente</td>
     </tr>
      <tr>
       <td>Conceitos de DevOps</td>
