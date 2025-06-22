@@ -18,6 +18,8 @@ O foco principal do projeto é fornecer insights valiosos a partir de métricas 
 Identificação de padrões e tendências para otimizar o processo de seleção.
 Personalização de relatórios conforme as necessidades específicas dos gestores.
 
+Link do repositório do projeto: [Repositório](https://github.com/bytelabss/ByteLabss-API5sem)
+
 ### Tecnologias adotadas na solução
 
 <div style="text-align: center;">
