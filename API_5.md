@@ -420,11 +420,6 @@ Nesse trecho do componente que lista a quatidade de contratações por processo 
 	<td>Consigo ensinar outros devs</td>
     </tr>
     <tr>
-      <td>Spark</td>
-      <td>★★★☆☆</td>
-	<td>Sei fazer com ajuda</td>
-    </tr>	
-    <tr>
       <td>Vue</td>
       <td>★★★★☆</td>
 	<td>Entendi</td>
