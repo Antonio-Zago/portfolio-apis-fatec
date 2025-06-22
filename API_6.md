@@ -16,6 +16,8 @@ O projeto propõe o desenvolvimento de uma plataforma web voltada à promoção 
 A plataforma permitirá o cadastro de áreas específicas, que serão analisadas com base em uma combinação entre dados geográficos, históricos e climáticos, juntamente com modelos de inteligência artificial desenvolvidos pela equipe. A partir desse cruzamento, serão gerados insights personalizados para cada região, oferecendo estratégias eficazes de reflorestamento e um monitoramento em tempo real que contribui para a minimização de riscos e o aumento da taxa de sucesso das iniciativas.  </br> </br>
 Além disso, a solução trará informações detalhadas sobre a saúde florestal da área, identificação de riscos ambientais, a recomendação de espécies vegetais mais adequadas conforme a estação do ano e a meta de longevidade, além da geração de relatórios que possibilitam um acompanhamento histórico de todo o processo. A plataforma será direcionada a produtores rurais, engenheiros ambientais e parceiros estratégicos da empresa, buscando aliar inovação tecnológica à sustentabilidade ambiental.
 
+Link do repositório do projeto: [Repositório](https://github.com/bytelabss/ByteLabs-API6Sem)
+
 ### Tecnologias adotadas na solução
 
 <div style="text-align: center;">
