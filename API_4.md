@@ -39,7 +39,7 @@ Link do repositório do projeto: [Repositório](https://github.com/Doc-Docker/AP
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="85" height="85" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="85" height="85" />
   </div>
 </div>
 
@@ -251,7 +251,7 @@ No geral, esse código cria uma interface de cadastro de chamados interativa, qu
 	<td>Entendi</td>
     </tr>	
     <tr>
-      <td>Sqlite</td>
+      <td>Oracle</td>
       <td>★★★☆☆</td>
 	<td>Sei fazer com ajuda</td>
     </tr>
