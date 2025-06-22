@@ -455,11 +455,6 @@ Além disso, foi implementado o serviço do REDIS, para armazenamento em cache d
       <td>★★★★☆</td>
 	<td>Entendi</td>
     </tr>
-   <tr>
-      <td>Postgress</td>
-      <td>★★★★★</td>
-	<td>Consigo ajudar outros devs</td>
-    </tr>
     <tr>
       <td>REDIS</td>
       <td>★★★★☆</td>
